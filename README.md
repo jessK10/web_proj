@@ -36,20 +36,3 @@ Technologies Used
     Font Awesome: Provides icons used for navigation, social media links, and other elements.
     Google Fonts: Used to import and apply custom fonts to the website.
 
-Setup Instructions
-
-To set up the Coffee Shop website locally:
-
-    Clone the repository to your local machine using Git:
-
-    bash
-
-git clone https://github.com/jessK10/web_proj/coffee-shop.git
-
-Navigate to the project directory:
-
-bash
-
-    cd coffee-shop
-
-    Open the index.html file in your preferred web browser to view the website locally.
