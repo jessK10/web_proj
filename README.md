@@ -44,7 +44,7 @@ To set up the Coffee Shop website locally:
 
     bash
 
-git clone https://github.com/jessK10/coffee-shop.git
+git clone https://github.com/jessK10/web_proj/coffee-shop.git
 
 Navigate to the project directory:
 
